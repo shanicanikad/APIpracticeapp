@@ -4,7 +4,7 @@ import Pic from "../src/pictures/pic2.png"
 import MakeUpPage from "./makeUpPage";
 
 
-let url = "http://makeup-api.herokuapp.com/api/v1/products.json?brand=covergirl";
+let url = "https://makeup-api.herokuapp.com/api/v1/products.json?brand=covergirl";
 
 const options = {
   method: "GET",
@@ -29,7 +29,7 @@ class App extends Component {
 
 
   findMakeup = () => {
-    const url = "http://makeup-api.herokuapp.com/api/v1/products.json?brand=covergirl";
+    const url = "https://makeup-api.herokuapp.com/api/v1/products.json?brand=covergirl";
     fetch(url, {
       headers: {
         Accept: "applcation/json",
