@@ -3,17 +3,6 @@ import "./App.css";
 import Pic from "../src/pictures/pic2.png"
 import MakeUpPage from "./makeUpPage";
 
-
-let url = "https://makeup-api.herokuapp.com/api/v1/products.json?brand=covergirl";
-
-const options = {
-  method: "GET",
-  headers: {
-    Accept: "application.json",
-  }
-};
-
-
 class App extends Component {
   constructor() {
     super();
@@ -24,11 +13,7 @@ class App extends Component {
   }
 
   componentDidMount() {
-    this.findMakeup();
-  }
-
-
-  findMakeup = () => {
+  
     const url = "https://makeup-api.herokuapp.com/api/v1/products.json?brand=covergirl";
     fetch(url, {
       headers: {
