@@ -22,7 +22,7 @@ class Search extends Component {
     };
 
     search = query => {
-        const url = `http://makeup-api.herokuapp.com/api/v1/products.json?brand=covergirl&product_type=${query}`;
+        const url = `https://makeup-api.herokuapp.com/api/v1/products.json?brand=covergirl&product_type=${query}`;
         const token = {};
         this.token = token;
 
