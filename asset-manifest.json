@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/APIpracticeapp/static/css/main.022bd58f.chunk.css",
-    "main.js": "/APIpracticeapp/static/js/main.fd6b635c.chunk.js",
-    "main.js.map": "/APIpracticeapp/static/js/main.fd6b635c.chunk.js.map",
-    "runtime-main.js": "/APIpracticeapp/static/js/runtime-main.d5eba041.js",
-    "runtime-main.js.map": "/APIpracticeapp/static/js/runtime-main.d5eba041.js.map",
-    "static/js/2.31fd4be5.chunk.js": "/APIpracticeapp/static/js/2.31fd4be5.chunk.js",
-    "static/js/2.31fd4be5.chunk.js.map": "/APIpracticeapp/static/js/2.31fd4be5.chunk.js.map",
-    "static/js/3.20a7ed4d.chunk.js": "/APIpracticeapp/static/js/3.20a7ed4d.chunk.js",
-    "static/js/3.20a7ed4d.chunk.js.map": "/APIpracticeapp/static/js/3.20a7ed4d.chunk.js.map",
+    "main.css": "/APIpracticeapp/static/css/main.fe9c49af.chunk.css",
+    "main.js": "/APIpracticeapp/static/js/main.8b27437f.chunk.js",
+    "main.js.map": "/APIpracticeapp/static/js/main.8b27437f.chunk.js.map",
+    "runtime-main.js": "/APIpracticeapp/static/js/runtime-main.f3162036.js",
+    "runtime-main.js.map": "/APIpracticeapp/static/js/runtime-main.f3162036.js.map",
+    "static/js/2.5da6b07a.chunk.js": "/APIpracticeapp/static/js/2.5da6b07a.chunk.js",
+    "static/js/2.5da6b07a.chunk.js.map": "/APIpracticeapp/static/js/2.5da6b07a.chunk.js.map",
+    "static/js/3.16a326a4.chunk.js": "/APIpracticeapp/static/js/3.16a326a4.chunk.js",
+    "static/js/3.16a326a4.chunk.js.map": "/APIpracticeapp/static/js/3.16a326a4.chunk.js.map",
     "index.html": "/APIpracticeapp/index.html",
-    "static/css/main.022bd58f.chunk.css.map": "/APIpracticeapp/static/css/main.022bd58f.chunk.css.map",
-    "static/js/2.31fd4be5.chunk.js.LICENSE.txt": "/APIpracticeapp/static/js/2.31fd4be5.chunk.js.LICENSE.txt",
+    "static/css/main.fe9c49af.chunk.css.map": "/APIpracticeapp/static/css/main.fe9c49af.chunk.css.map",
+    "static/js/2.5da6b07a.chunk.js.LICENSE.txt": "/APIpracticeapp/static/js/2.5da6b07a.chunk.js.LICENSE.txt",
     "static/media/pic2.ed64d2d0.png": "/APIpracticeapp/static/media/pic2.ed64d2d0.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d5eba041.js",
-    "static/js/2.31fd4be5.chunk.js",
-    "static/css/main.022bd58f.chunk.css",
-    "static/js/main.fd6b635c.chunk.js"
+    "static/js/runtime-main.f3162036.js",
+    "static/js/2.5da6b07a.chunk.js",
+    "static/css/main.fe9c49af.chunk.css",
+    "static/js/main.8b27437f.chunk.js"
   ]
 }
